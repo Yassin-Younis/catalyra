@@ -1,0 +1,10 @@
+User-Agent: *
+Allow: /
+Disallow: /api/
+Disallow: /en/suite
+Disallow: /ar/suite
+Disallow: /en/login
+Disallow: /ar/login
+
+Host: https://yassin-younis.github.io/catalyra
+Sitemap: https://yassin-younis.github.io/catalyra/sitemap.xml

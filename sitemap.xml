@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<url>
+<loc>https://yassin-younis.github.io/catalyra/en</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://yassin-younis.github.io/catalyra/en" />
+<xhtml:link rel="alternate" hreflang="ar" href="https://yassin-younis.github.io/catalyra/ar" />
+<lastmod>2026-10-31T20:38:41.556Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1</priority>
+</url>
+<url>
+<loc>https://yassin-younis.github.io/catalyra/ar</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://yassin-younis.github.io/catalyra/en" />
+<xhtml:link rel="alternate" hreflang="ar" href="https://yassin-younis.github.io/catalyra/ar" />
+<lastmod>2026-10-31T20:38:41.556Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1</priority>
+</url>
+<url>
+<loc>https://yassin-younis.github.io/catalyra/en/ai-suite</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://yassin-younis.github.io/catalyra/en/ai-suite" />
+<xhtml:link rel="alternate" hreflang="ar" href="https://yassin-younis.github.io/catalyra/ar/ai-suite" />
+<lastmod>2026-10-31T20:38:41.556Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://yassin-younis.github.io/catalyra/ar/ai-suite</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://yassin-younis.github.io/catalyra/en/ai-suite" />
+<xhtml:link rel="alternate" hreflang="ar" href="https://yassin-younis.github.io/catalyra/ar/ai-suite" />
+<lastmod>2026-10-31T20:38:41.556Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+</urlset>
